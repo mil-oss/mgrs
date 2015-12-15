@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:kml xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+    <ns3:Document id="root_doc">
+        <ns3:Schema name="MGRS_100kmSQ_ID_11C" id="MGRS_100kmSQ_ID_11C">
+            <ns3:SimpleField type="string" name="EASTING"/>
+            <ns3:SimpleField type="string" name="NORTHING"/>
+            <ns3:SimpleField type="string" name="100kmSQ_ID"/>
+            <ns3:SimpleField type="string" name="GZD"/>
+            <ns3:SimpleField type="string" name="MGRS"/>
+        </ns3:Schema>
+        <ns3:Folder>
+            <ns3:name>MGRS_100kmSQ_ID_11C</ns3:name>
+            <ns3:Placemark>
+                <ns3:Style>
+                    <ns3:LineStyle>
+                        <ns3:color>ff0000ff</ns3:color>
+                        <ns3:width>0.0</ns3:width>
+                    </ns3:LineStyle>
+                    <ns3:PolyStyle>
+                        <ns3:fill>0</ns3:fill>
+                    </ns3:PolyStyle>
+                </ns3:Style>
+                <ns3:ExtendedData>
+                    <ns3:SchemaData schemaUrl="#MGRS_100kmSQ_ID_11C">
+                        <ns3:SimpleData name="EASTING">300000mE</ns3:SimpleData>
+                        <ns3:SimpleData name="NORTHING">2000000mN</ns3:SimpleData>
+                        <ns3:SimpleData name="100kmSQ_ID">LA</ns3:SimpleData>
+                        <ns3:SimpleData name="GZD">11C</ns3:SimpleData>
+                        <ns3:SimpleData name="MGRS">11CLA</ns3:SimpleData>
+                    </ns3:SchemaData>
+                </ns3:ExtendedData>
+                <ns3:Polygon>
+                    <ns3:outerBoundaryIs>
+                        <ns3:LinearRing>
+                            <ns3:coordinates>-119.91249232174262,-72.07753652695266 -119.99999987989202,-72.07621247042394 -119.99999987992736,-71.99999999993331 -119.90035669653415,-72.00000000045213 -119.91249232174262,-72.07753652695266</ns3:coordinates>
+                        </ns3:LinearRing>
+                    </ns3:outerBoundaryIs>
+                </ns3:Polygon>
+            </ns3:Placemark>
+            <ns3:Placemark>
+                <ns3:Style>
+                    <ns3:LineStyle>
+                        <ns3:color>ff0000ff</ns3:color>
+                        <ns3:width>0.0</ns3:width>
+                    </ns3:LineStyle>
+                    <ns3:PolyStyle>
+                        <ns3:fill>0</ns3:fill>
+                    </ns3:PolyStyle>
+                </ns3:Style>
+                <ns3:ExtendedData>
+                    <ns3:SchemaData schemaUrl="#MGRS_100kmSQ_ID_11C">
+                        <ns3:SimpleData name="EASTING">400000mE</ns3:SimpleData>
+                        <ns3:SimpleData name="NORTHING">2000000mN</ns3:SimpleData>
+                        <ns3:SimpleData name="100kmSQ_ID">MA</ns3:SimpleData>
+                        <ns3:SimpleData name="GZD">11C</ns3:SimpleData>
+                        <ns3:SimpleData name="MGRS">11CMA</ns3:SimpleData>
+                    </ns3:SchemaData>
+                </ns3:ExtendedData>
+                <ns3:Polygon>
+                    <ns3:outerBoundaryIs>
+                        <ns3:LinearRing>
+                            <ns3:coordinates>-117.0,-72.09922252506905 -119.91249232174262,-72.07753652695266 -119.90035669653415,-72.00000000045213 -117.0,-71.9999999999559 -117.0,-72.09922252506905</ns3:coordinates>
+                        </ns3:LinearRing>
+                    </ns3:outerBoundaryIs>
+                </ns3:Polygon>
+            </ns3:Placemark>
+            <ns3:Placemark>
+                <ns3:Style>
+                    <ns3:LineStyle>
+                        <ns3:color>ff0000ff</ns3:color>
+                        <ns3:width>0.0</ns3:width>
+                    </ns3:LineStyle>
+                    <ns3:PolyStyle>
+                        <ns3:fill>0</ns3:fill>
+                    </ns3:PolyStyle>
+                </ns3:Style>
+                <ns3:ExtendedData>
+                    <ns3:SchemaData schemaUrl="#MGRS_100kmSQ_ID_11C">
+                        <ns3:SimpleData name="EASTING">500000mE</ns3:SimpleData>
+                        <ns3:SimpleData name="NORTHING">2000000mN</ns3:SimpleData>
+                        <ns3:SimpleData name="100kmSQ_ID">NA</ns3:SimpleData>
+                        <ns3:SimpleData name="GZD">11C</ns3:SimpleData>
+                        <ns3:SimpleData name="MGRS">11CNA</ns3:SimpleData>
+                    </ns3:SchemaData>
+                </ns3:ExtendedData>
+                <ns3:Polygon>
+                    <ns3:outerBoundaryIs>
+                        <ns3:LinearRing>
+                            <ns3:coordinates>-114.09964330346824,-72.00000000043607 -114.08750767825728,-72.07753652695266 -117.0,-72.09922252506905 -117.0,-71.9999999999559 -114.09964330346824,-72.00000000043607</ns3:coordinates>
+                        </ns3:LinearRing>
+                    </ns3:outerBoundaryIs>
+                </ns3:Polygon>
+            </ns3:Placemark>
+            <ns3:Placemark>
+                <ns3:Style>
+                    <ns3:LineStyle>
+                        <ns3:color>ff0000ff</ns3:color>
+                        <ns3:width>0.0</ns3:width>
+                    </ns3:LineStyle>
+                    <ns3:PolyStyle>
+                        <ns3:fill>0</ns3:fill>
+                    </ns3:PolyStyle>
+                </ns3:Style>
+                <ns3:ExtendedData>
+                    <ns3:SchemaData schemaUrl="#MGRS_100kmSQ_ID_11C">
+                        <ns3:SimpleData name="EASTING">600000mE</ns3:SimpleData>
+                        <ns3:SimpleData name="NORTHING">2000000mN</ns3:SimpleData>
+                        <ns3:SimpleData name="100kmSQ_ID">PA</ns3:SimpleData>
+                        <ns3:SimpleData name="GZD">11C</ns3:SimpleData>
+                        <ns3:SimpleData name="MGRS">11CPA</ns3:SimpleData>
+                    </ns3:SchemaData>
+                </ns3:ExtendedData>
+                <ns3:Polygon>
+                    <ns3:outerBoundaryIs>
+                        <ns3:LinearRing>
+                            <ns3:coordinates>-114.00000012010797,-72.07621247042394 -114.08750767825728,-72.07753652695266 -114.09964330346824,-72.00000000043607 -114.00000012007254,-71.99999999993331 -114.00000012010797,-72.07621247042394</ns3:coordinates>
+                        </ns3:LinearRing>
+                    </ns3:outerBoundaryIs>
+                </ns3:Polygon>
+            </ns3:Placemark>
+            <ns3:Placemark>
+                <ns3:Style>
+                    <ns3:LineStyle>
+                        <ns3:color>ff0000ff</ns3:color>
+                        <ns3:width>0.0</ns3:width>
+                    </ns3:LineStyle>
+                    <ns3:PolyStyle>
+                        <ns3:fill>0</ns3:fill>
+                    </ns3:PolyStyle>
+                </ns3:Style>
+                <ns3:ExtendedData>
+                    <ns3:SchemaData schemaUrl="#MGRS_100kmSQ_ID_11C">
+                        <ns3:SimpleData name="EASTING">300000mE</ns3:SimpleData>
+                        <ns3:SimpleData name="NORTHING">1900000mN</ns3:SimpleData>
+                        <ns3:SimpleData name="100kmSQ_ID">LV</ns3:SimpleData>
+                        <ns3:SimpleData name="GZD">11C</ns3:SimpleData>
+                        <ns3:SimpleData name="MGRS">11CLV</ns3:SimpleData>
+                    </ns3:SchemaData>
+                </ns3:ExtendedData>
+                <ns3:Polygon>
+                    <ns3:outerBoundaryIs>
+                        <ns3:LinearRing>
+                            <ns3:coordinates>-119.9999998798595,-72.61710942228527 -119.99999987992662,-72.6132819599351 -119.99999987989202,-72.07621247042394 -119.91249232174262,-72.07753652695266 -119.9999998798595,-72.61710942228527</ns3:coordinates>
+                        </ns3:LinearRing>
+                    </ns3:outerBoundaryIs>
+                </ns3:Polygon>
+            </ns3:Placemark>
+            <ns3:Placemark>
+                <ns3:Style>
+                    <ns3:LineStyle>
+                        <ns3:color>ff0000ff</ns3:color>
+                        <ns3:width>0.0</ns3:width>
+                    </ns3:LineStyle>
+                    <ns3:PolyStyle>
+                        <ns3:fill>0</ns3:fill>
+                    </ns3:PolyStyle>
+                </ns3:Style>
+                <ns3:ExtendedData>
+                    <ns3:SchemaData schemaUrl="#MGRS_100kmSQ_ID_11C">
+                        <ns3:SimpleData name="EASTING">400000mE</ns3:SimpleData>
+                        <ns3:SimpleData name="NORTHING">1900000mN</ns3:SimpleData>
+                        <ns3:SimpleData name="100kmSQ_ID">MV</ns3:SimpleData>
+                        <ns3:SimpleData name="GZD">11C</ns3:SimpleData>
+                        <ns3:SimpleData name="MGRS">11CMV</ns3:SimpleData>
+                    </ns3:SchemaData>
+                </ns3:ExtendedData>
+                <ns3:Polygon>
+                    <ns3:outerBoundaryIs>
+                        <ns3:LinearRing>
+                            <ns3:coordinates>-117.0,-72.99569891096408 -119.9999998794934,-72.97369933704164 -119.9999998798595,-72.61710942228527 -119.91249232174262,-72.07753652695266 -117.0,-72.09922252506905 -117.0,-72.99569891096408</ns3:coordinates>
+                        </ns3:LinearRing>
+                    </ns3:outerBoundaryIs>
+                </ns3:Polygon>
+            </ns3:Placemark>
+            <ns3:Placemark>
+                <ns3:Style>
+                    <ns3:LineStyle>
+                        <ns3:color>ff0000ff</ns3:color>
+                        <ns3:width>0.0</ns3:width>
+                    </ns3:LineStyle>
+                    <ns3:PolyStyle>
+                        <ns3:fill>0</ns3:fill>
+                    </ns3:PolyStyle>
+                </ns3:Style>
+                <ns3:ExtendedData>
+                    <ns3:SchemaData schemaUrl="#MGRS_100kmSQ_ID_11C">
+                        <ns3:SimpleData name="EASTING">500000mE</ns3:SimpleData>
+                        <ns3:SimpleData name="NORTHING">1900000mN</ns3:SimpleData>
+                        <ns3:SimpleData name="100kmSQ_ID">NV</ns3:SimpleData>
+                        <ns3:SimpleData name="GZD">11C</ns3:SimpleData>
+                        <ns3:SimpleData name="MGRS">11CNV</ns3:SimpleData>
+                    </ns3:SchemaData>
+                </ns3:ExtendedData>
+                <ns3:Polygon>
+                    <ns3:outerBoundaryIs>
+                        <ns3:LinearRing>
+                            <ns3:coordinates>-114.0000001201404,-72.61710942228527 -114.00000012007327,-72.61718795993514 -114.0000001205065,-72.97369933704164 -117.0,-72.99569891096408 -117.0,-72.09922252506905 -114.08750767825728,-72.07753652695266 -114.0000001201404,-72.61710942228527</ns3:coordinates>
+                        </ns3:LinearRing>
+                    </ns3:outerBoundaryIs>
+                </ns3:Polygon>
+            </ns3:Placemark>
+            <ns3:Placemark>
+                <ns3:Style>
+                    <ns3:LineStyle>
+                        <ns3:color>ff0000ff</ns3:color>
+                        <ns3:width>0.0</ns3:width>
+                    </ns3:LineStyle>
+                    <ns3:PolyStyle>
+                        <ns3:fill>0</ns3:fill>
+                    </ns3:PolyStyle>
+                </ns3:Style>
+                <ns3:ExtendedData>
+                    <ns3:SchemaData schemaUrl="#MGRS_100kmSQ_ID_11C">
+                        <ns3:SimpleData name="EASTING">600000mE</ns3:SimpleData>
+                        <ns3:SimpleData name="NORTHING">1900000mN</ns3:SimpleData>
+                        <ns3:SimpleData name="100kmSQ_ID">PV</ns3:SimpleData>
+                        <ns3:SimpleData name="GZD">11C</ns3:SimpleData>
+                        <ns3:SimpleData name="MGRS">11CPV</ns3:SimpleData>
+                    </ns3:SchemaData>
+                </ns3:ExtendedData>
+                <ns3:Polygon>
+                    <ns3:outerBoundaryIs>
+                        <ns3:LinearRing>
+                            <ns3:coordinates>-114.0000001201404,-72.61710942228527 -114.08750767825728,-72.07753652695266 -114.00000012010797,-72.07621247042394 -114.0000001201404,-72.61710942228527</ns3:coordinates>
+                        </ns3:LinearRing>
+                    </ns3:outerBoundaryIs>
+                </ns3:Polygon>
+            </ns3:Placemark>
+            <ns3:Placemark>
+                <ns3:Style>
+                    <ns3:LineStyle>
+                        <ns3:color>ff0000ff</ns3:color>
+                        <ns3:width>0.0</ns3:width>
+                    </ns3:LineStyle>
+                    <ns3:PolyStyle>
+                        <ns3:fill>0</ns3:fill>
+                    </ns3:PolyStyle>
+                </ns3:Style>
+                <ns3:ExtendedData>
+                    <ns3:SchemaData schemaUrl="#MGRS_100kmSQ_ID_11C">
+                        <ns3:SimpleData name="EASTING">400000mE</ns3:SimpleData>
+                        <ns3:SimpleData name="NORTHING">1800000mN</ns3:SimpleData>
+                        <ns3:SimpleData name="100kmSQ_ID">MU</ns3:SimpleData>
+                        <ns3:SimpleData name="GZD">11C</ns3:SimpleData>
+                        <ns3:SimpleData name="MGRS">11CMU</ns3:SimpleData>
+                    </ns3:SchemaData>
+                </ns3:ExtendedData>
+                <ns3:Polygon>
+                    <ns3:outerBoundaryIs>
+                        <ns3:LinearRing>
+                            <ns3:coordinates>-117.0,-73.89209604523454 -119.99999987989514,-73.87112825727861 -119.9999998794934,-72.97369933704164 -117.0,-72.99569891096408 -117.0,-73.89209604523454</ns3:coordinates>
+                        </ns3:LinearRing>
+                    </ns3:outerBoundaryIs>
+                </ns3:Polygon>
+            </ns3:Placemark>
+            <ns3:Placemark>
+                <ns3:Style>
+                    <ns3:LineStyle>
+                        <ns3:color>ff0000ff</ns3:color>
+                        <ns3:width>0.0</ns3:width>
+                    </ns3:LineStyle>
+                    <ns3:PolyStyle>
+                        <ns3:fill>0</ns3:fill>
+                    </ns3:PolyStyle>
+                </ns3:Style>
+                <ns3:ExtendedData>
+                    <ns3:SchemaData schemaUrl="#MGRS_100kmSQ_ID_11C">
+                        <ns3:SimpleData name="EASTING">500000mE</ns3:SimpleData>
+                        <ns3:SimpleData name="NORTHING">1800000mN</ns3:SimpleData>
+                        <ns3:SimpleData name="100kmSQ_ID">NU</ns3:SimpleData>
+                        <ns3:SimpleData name="GZD">11C</ns3:SimpleData>
+                        <ns3:SimpleData name="MGRS">11CNU</ns3:SimpleData>
+                    </ns3:SchemaData>
+                </ns3:ExtendedData>
+                <ns3:Polygon>
+                    <ns3:outerBoundaryIs>
+                        <ns3:LinearRing>
+                            <ns3:coordinates>-114.00000012010474,-73.87112825727861 -117.0,-73.89209604523454 -117.0,-72.99569891096408 -114.0000001205065,-72.97369933704164 -114.00000012010474,-73.87112825727861</ns3:coordinates>
+                        </ns3:LinearRing>
+                    </ns3:outerBoundaryIs>
+                </ns3:Polygon>
+            </ns3:Placemark>
+            <ns3:Placemark>
+                <ns3:Style>
+                    <ns3:LineStyle>
+                        <ns3:color>ff0000ff</ns3:color>
+                        <ns3:width>0.0</ns3:width>
+                    </ns3:LineStyle>
+                    <ns3:PolyStyle>
+                        <ns3:fill>0</ns3:fill>
+                    </ns3:PolyStyle>
+                </ns3:Style>
+                <ns3:ExtendedData>
+                    <ns3:SchemaData schemaUrl="#MGRS_100kmSQ_ID_11C">
+                        <ns3:SimpleData name="EASTING">400000mE</ns3:SimpleData>
+                        <ns3:SimpleData name="NORTHING">1700000mN</ns3:SimpleData>
+                        <ns3:SimpleData name="100kmSQ_ID">MT</ns3:SimpleData>
+                        <ns3:SimpleData name="GZD">11C</ns3:SimpleData>
+                        <ns3:SimpleData name="MGRS">11CMT</ns3:SimpleData>
+                    </ns3:SchemaData>
+                </ns3:ExtendedData>
+                <ns3:Polygon>
+                    <ns3:outerBoundaryIs>
+                        <ns3:LinearRing>
+                            <ns3:coordinates>-117.0,-74.78841765002555 -119.99999987949067,-74.7685019459606 -119.99999987989514,-73.87112825727861 -117.0,-73.89209604523454 -117.0,-74.78841765002555</ns3:coordinates>
+                        </ns3:LinearRing>
+                    </ns3:outerBoundaryIs>
+                </ns3:Polygon>
+            </ns3:Placemark>
+            <ns3:Placemark>
+                <ns3:Style>
+                    <ns3:LineStyle>
+                        <ns3:color>ff0000ff</ns3:color>
+                        <ns3:width>0.0</ns3:width>
+                    </ns3:LineStyle>
+                    <ns3:PolyStyle>
+                        <ns3:fill>0</ns3:fill>
+                    </ns3:PolyStyle>
+                </ns3:Style>
+                <ns3:ExtendedData>
+                    <ns3:SchemaData schemaUrl="#MGRS_100kmSQ_ID_11C">
+                        <ns3:SimpleData name="EASTING">500000mE</ns3:SimpleData>
+                        <ns3:SimpleData name="NORTHING">1700000mN</ns3:SimpleData>
+                        <ns3:SimpleData name="100kmSQ_ID">NT</ns3:SimpleData>
+                        <ns3:SimpleData name="GZD">11C</ns3:SimpleData>
+                        <ns3:SimpleData name="MGRS">11CNT</ns3:SimpleData>
+                    </ns3:SchemaData>
+                </ns3:ExtendedData>
+                <ns3:Polygon>
+                    <ns3:outerBoundaryIs>
+                        <ns3:LinearRing>
+                            <ns3:coordinates>-114.00000012050923,-74.7685019459606 -117.0,-74.78841765002555 -117.0,-73.89209604523454 -114.00000012010474,-73.87112825727861 -114.00000012050923,-74.7685019459606</ns3:coordinates>
+                        </ns3:LinearRing>
+                    </ns3:outerBoundaryIs>
+                </ns3:Polygon>
+            </ns3:Placemark>
+            <ns3:Placemark>
+                <ns3:Style>
+                    <ns3:LineStyle>
+                        <ns3:color>ff0000ff</ns3:color>
+                        <ns3:width>0.0</ns3:width>
+                    </ns3:LineStyle>
+                    <ns3:PolyStyle>
+                        <ns3:fill>0</ns3:fill>
+                    </ns3:PolyStyle>
+                </ns3:Style>
+                <ns3:ExtendedData>
+                    <ns3:SchemaData schemaUrl="#MGRS_100kmSQ_ID_11C">
+                        <ns3:SimpleData name="EASTING">400000mE</ns3:SimpleData>
+                        <ns3:SimpleData name="NORTHING">1600000mN</ns3:SimpleData>
+                        <ns3:SimpleData name="100kmSQ_ID">MS</ns3:SimpleData>
+                        <ns3:SimpleData name="GZD">11C</ns3:SimpleData>
+                        <ns3:SimpleData name="MGRS">11CMS</ns3:SimpleData>
+                    </ns3:SchemaData>
+                </ns3:ExtendedData>
+                <ns3:Polygon>
+                    <ns3:outerBoundaryIs>
+                        <ns3:LinearRing>
+                            <ns3:coordinates>-117.0,-75.68466751983877 -119.99999987976832,-75.66582317175933 -119.99999987949067,-74.7685019459606 -117.0,-74.78841765002555 -117.0,-75.68466751983877</ns3:coordinates>
+                        </ns3:LinearRing>
+                    </ns3:outerBoundaryIs>
+                </ns3:Polygon>
+            </ns3:Placemark>
+            <ns3:Placemark>
+                <ns3:Style>
+                    <ns3:LineStyle>
+                        <ns3:color>ff0000ff</ns3:color>
+                        <ns3:width>0.0</ns3:width>
+                    </ns3:LineStyle>
+                    <ns3:PolyStyle>
+                        <ns3:fill>0</ns3:fill>
+                    </ns3:PolyStyle>
+                </ns3:Style>
+                <ns3:ExtendedData>
+                    <ns3:SchemaData schemaUrl="#MGRS_100kmSQ_ID_11C">
+                        <ns3:SimpleData name="EASTING">500000mE</ns3:SimpleData>
+                        <ns3:SimpleData name="NORTHING">1600000mN</ns3:SimpleData>
+                        <ns3:SimpleData name="100kmSQ_ID">NS</ns3:SimpleData>
+                        <ns3:SimpleData name="GZD">11C</ns3:SimpleData>
+                        <ns3:SimpleData name="MGRS">11CNS</ns3:SimpleData>
+                    </ns3:SchemaData>
+                </ns3:ExtendedData>
+                <ns3:Polygon>
+                    <ns3:outerBoundaryIs>
+                        <ns3:LinearRing>
+                            <ns3:coordinates>-114.00000012023156,-75.66582317175933 -117.0,-75.68466751983877 -117.0,-74.78841765002555 -114.00000012050923,-74.7685019459606 -114.00000012023156,-75.66582317175933</ns3:coordinates>
+                        </ns3:LinearRing>
+                    </ns3:outerBoundaryIs>
+                </ns3:Polygon>
+            </ns3:Placemark>
+            <ns3:Placemark>
+                <ns3:Style>
+                    <ns3:LineStyle>
+                        <ns3:color>ff0000ff</ns3:color>
+                        <ns3:width>0.0</ns3:width>
+                    </ns3:LineStyle>
+                    <ns3:PolyStyle>
+                        <ns3:fill>0</ns3:fill>
+                    </ns3:PolyStyle>
+                </ns3:Style>
+                <ns3:ExtendedData>
+                    <ns3:SchemaData schemaUrl="#MGRS_100kmSQ_ID_11C">
+                        <ns3:SimpleData name="EASTING">400000mE</ns3:SimpleData>
+                        <ns3:SimpleData name="NORTHING">1500000mN</ns3:SimpleData>
+                        <ns3:SimpleData name="100kmSQ_ID">MR</ns3:SimpleData>
+                        <ns3:SimpleData name="GZD">11C</ns3:SimpleData>
+                        <ns3:SimpleData name="MGRS">11CMR</ns3:SimpleData>
+                    </ns3:SchemaData>
+                </ns3:ExtendedData>
+                <ns3:Polygon>
+                    <ns3:outerBoundaryIs>
+                        <ns3:LinearRing>
+                            <ns3:coordinates>-117.0,-76.5808495178572 -119.9999998795535,-76.56309475455875 -119.99999987976832,-75.66582317175933 -117.0,-75.68466751983877 -117.0,-76.5808495178572</ns3:coordinates>
+                        </ns3:LinearRing>
+                    </ns3:outerBoundaryIs>
+                </ns3:Polygon>
+            </ns3:Placemark>
+            <ns3:Placemark>
+                <ns3:Style>
+                    <ns3:LineStyle>
+                        <ns3:color>ff0000ff</ns3:color>
+                        <ns3:width>0.0</ns3:width>
+                    </ns3:LineStyle>
+                    <ns3:PolyStyle>
+                        <ns3:fill>0</ns3:fill>
+                    </ns3:PolyStyle>
+                </ns3:Style>
+                <ns3:ExtendedData>
+                    <ns3:SchemaData schemaUrl="#MGRS_100kmSQ_ID_11C">
+                        <ns3:SimpleData name="EASTING">500000mE</ns3:SimpleData>
+                        <ns3:SimpleData name="NORTHING">1500000mN</ns3:SimpleData>
+                        <ns3:SimpleData name="100kmSQ_ID">NR</ns3:SimpleData>
+                        <ns3:SimpleData name="GZD">11C</ns3:SimpleData>
+                        <ns3:SimpleData name="MGRS">11CNR</ns3:SimpleData>
+                    </ns3:SchemaData>
+                </ns3:ExtendedData>
+                <ns3:Polygon>
+                    <ns3:outerBoundaryIs>
+                        <ns3:LinearRing>
+                            <ns3:coordinates>-114.00000012044639,-76.56309475455875 -117.0,-76.5808495178572 -117.0,-75.68466751983877 -114.00000012023156,-75.66582317175933 -114.00000012044639,-76.56309475455875</ns3:coordinates>
+                        </ns3:LinearRing>
+                    </ns3:outerBoundaryIs>
+                </ns3:Polygon>
+            </ns3:Placemark>
+            <ns3:Placemark>
+                <ns3:Style>
+                    <ns3:LineStyle>
+                        <ns3:color>ff0000ff</ns3:color>
+                        <ns3:width>0.0</ns3:width>
+                    </ns3:LineStyle>
+                    <ns3:PolyStyle>
+                        <ns3:fill>0</ns3:fill>
+                    </ns3:PolyStyle>
+                </ns3:Style>
+                <ns3:ExtendedData>
+                    <ns3:SchemaData schemaUrl="#MGRS_100kmSQ_ID_11C">
+                        <ns3:SimpleData name="EASTING">400000mE</ns3:SimpleData>
+                        <ns3:SimpleData name="NORTHING">1400000mN</ns3:SimpleData>
+                        <ns3:SimpleData name="100kmSQ_ID">MQ</ns3:SimpleData>
+                        <ns3:SimpleData name="GZD">11C</ns3:SimpleData>
+                        <ns3:SimpleData name="MGRS">11CMQ</ns3:SimpleData>
+                    </ns3:SchemaData>
+                </ns3:ExtendedData>
+                <ns3:Polygon>
+                    <ns3:outerBoundaryIs>
+                        <ns3:LinearRing>
+                            <ns3:coordinates>-117.0,-77.4769675722105 -119.99999987954487,-77.46031956263306 -119.9999998795535,-76.56309475455875 -117.0,-76.5808495178572 -117.0,-77.4769675722105</ns3:coordinates>
+                        </ns3:LinearRing>
+                    </ns3:outerBoundaryIs>
+                </ns3:Polygon>
+            </ns3:Placemark>
+            <ns3:Placemark>
+                <ns3:Style>
+                    <ns3:LineStyle>
+                        <ns3:color>ff0000ff</ns3:color>
+                        <ns3:width>0.0</ns3:width>
+                    </ns3:LineStyle>
+                    <ns3:PolyStyle>
+                        <ns3:fill>0</ns3:fill>
+                    </ns3:PolyStyle>
+                </ns3:Style>
+                <ns3:ExtendedData>
+                    <ns3:SchemaData schemaUrl="#MGRS_100kmSQ_ID_11C">
+                        <ns3:SimpleData name="EASTING">500000mE</ns3:SimpleData>
+                        <ns3:SimpleData name="NORTHING">1400000mN</ns3:SimpleData>
+                        <ns3:SimpleData name="100kmSQ_ID">NQ</ns3:SimpleData>
+                        <ns3:SimpleData name="GZD">11C</ns3:SimpleData>
+                        <ns3:SimpleData name="MGRS">11CNQ</ns3:SimpleData>
+                    </ns3:SchemaData>
+                </ns3:ExtendedData>
+                <ns3:Polygon>
+                    <ns3:outerBoundaryIs>
+                        <ns3:LinearRing>
+                            <ns3:coordinates>-114.00000012045501,-77.46031956263306 -117.0,-77.4769675722105 -117.0,-76.5808495178572 -114.00000012044639,-76.56309475455875 -114.00000012045501,-77.46031956263306</ns3:coordinates>
+                        </ns3:LinearRing>
+                    </ns3:outerBoundaryIs>
+                </ns3:Polygon>
+            </ns3:Placemark>
+            <ns3:Placemark>
+                <ns3:Style>
+                    <ns3:LineStyle>
+                        <ns3:color>ff0000ff</ns3:color>
+                        <ns3:width>0.0</ns3:width>
+                    </ns3:LineStyle>
+                    <ns3:PolyStyle>
+                        <ns3:fill>0</ns3:fill>
+                    </ns3:PolyStyle>
+                </ns3:Style>
+                <ns3:ExtendedData>
+                    <ns3:SchemaData schemaUrl="#MGRS_100kmSQ_ID_11C">
+                        <ns3:SimpleData name="EASTING">400000mE</ns3:SimpleData>
+                        <ns3:SimpleData name="NORTHING">1300000mN</ns3:SimpleData>
+                        <ns3:SimpleData name="100kmSQ_ID">MP</ns3:SimpleData>
+                        <ns3:SimpleData name="GZD">11C</ns3:SimpleData>
+                        <ns3:SimpleData name="MGRS">11CMP</ns3:SimpleData>
+                    </ns3:SchemaData>
+                </ns3:ExtendedData>
+                <ns3:Polygon>
+                    <ns3:outerBoundaryIs>
+                        <ns3:LinearRing>
+                            <ns3:coordinates>-117.0,-78.37302567218411 -119.99999987985319,-78.35750050987237 -119.99999987954487,-77.46031956263306 -117.0,-77.4769675722105 -117.0,-78.37302567218411</ns3:coordinates>
+                        </ns3:LinearRing>
+                    </ns3:outerBoundaryIs>
+                </ns3:Polygon>
+            </ns3:Placemark>
+            <ns3:Placemark>
+                <ns3:Style>
+                    <ns3:LineStyle>
+                        <ns3:color>ff0000ff</ns3:color>
+                        <ns3:width>0.0</ns3:width>
+                    </ns3:LineStyle>
+                    <ns3:PolyStyle>
+                        <ns3:fill>0</ns3:fill>
+                    </ns3:PolyStyle>
+                </ns3:Style>
+                <ns3:ExtendedData>
+                    <ns3:SchemaData schemaUrl="#MGRS_100kmSQ_ID_11C">
+                        <ns3:SimpleData name="EASTING">500000mE</ns3:SimpleData>
+                        <ns3:SimpleData name="NORTHING">1300000mN</ns3:SimpleData>
+                        <ns3:SimpleData name="100kmSQ_ID">NP</ns3:SimpleData>
+                        <ns3:SimpleData name="GZD">11C</ns3:SimpleData>
+                        <ns3:SimpleData name="MGRS">11CNP</ns3:SimpleData>
+                    </ns3:SchemaData>
+                </ns3:ExtendedData>
+                <ns3:Polygon>
+                    <ns3:outerBoundaryIs>
+                        <ns3:LinearRing>
+                            <ns3:coordinates>-114.00000012014668,-78.35750050987237 -117.0,-78.37302567218411 -117.0,-77.4769675722105 -114.00000012045501,-77.46031956263306 -114.00000012014668,-78.35750050987237</ns3:coordinates>
+                        </ns3:LinearRing>
+                    </ns3:outerBoundaryIs>
+                </ns3:Polygon>
+            </ns3:Placemark>
+            <ns3:Placemark>
+                <ns3:Style>
+                    <ns3:LineStyle>
+                        <ns3:color>ff0000ff</ns3:color>
+                        <ns3:width>0.0</ns3:width>
+                    </ns3:LineStyle>
+                    <ns3:PolyStyle>
+                        <ns3:fill>0</ns3:fill>
+                    </ns3:PolyStyle>
+                </ns3:Style>
+                <ns3:ExtendedData>
+                    <ns3:SchemaData schemaUrl="#MGRS_100kmSQ_ID_11C">
+                        <ns3:SimpleData name="EASTING">400000mE</ns3:SimpleData>
+                        <ns3:SimpleData name="NORTHING">1200000mN</ns3:SimpleData>
+                        <ns3:SimpleData name="100kmSQ_ID">MN</ns3:SimpleData>
+                        <ns3:SimpleData name="GZD">11C</ns3:SimpleData>
+                        <ns3:SimpleData name="MGRS">11CMN</ns3:SimpleData>
+                    </ns3:SchemaData>
+                </ns3:ExtendedData>
+                <ns3:Polygon>
+                    <ns3:outerBoundaryIs>
+                        <ns3:LinearRing>
+                            <ns3:coordinates>-117.0,-79.26902786437586 -119.99999987951139,-79.25464055293561 -119.99999987985319,-78.35750050987237 -117.0,-78.37302567218411 -117.0,-79.26902786437586</ns3:coordinates>
+                        </ns3:LinearRing>
+                    </ns3:outerBoundaryIs>
+                </ns3:Polygon>
+            </ns3:Placemark>
+            <ns3:Placemark>
+                <ns3:Style>
+                    <ns3:LineStyle>
+                        <ns3:color>ff0000ff</ns3:color>
+                        <ns3:width>0.0</ns3:width>
+                    </ns3:LineStyle>
+                    <ns3:PolyStyle>
+                        <ns3:fill>0</ns3:fill>
+                    </ns3:PolyStyle>
+                </ns3:Style>
+                <ns3:ExtendedData>
+                    <ns3:SchemaData schemaUrl="#MGRS_100kmSQ_ID_11C">
+                        <ns3:SimpleData name="EASTING">500000mE</ns3:SimpleData>
+                        <ns3:SimpleData name="NORTHING">1200000mN</ns3:SimpleData>
+                        <ns3:SimpleData name="100kmSQ_ID">NN</ns3:SimpleData>
+                        <ns3:SimpleData name="GZD">11C</ns3:SimpleData>
+                        <ns3:SimpleData name="MGRS">11CNN</ns3:SimpleData>
+                    </ns3:SchemaData>
+                </ns3:ExtendedData>
+                <ns3:Polygon>
+                    <ns3:outerBoundaryIs>
+                        <ns3:LinearRing>
+                            <ns3:coordinates>-114.00000012048848,-79.25464055293561 -117.0,-79.26902786437586 -117.0,-78.37302567218411 -114.00000012014668,-78.35750050987237 -114.00000012048848,-79.25464055293561</ns3:coordinates>
+                        </ns3:LinearRing>
+                    </ns3:outerBoundaryIs>
+                </ns3:Polygon>
+            </ns3:Placemark>
+            <ns3:Placemark>
+                <ns3:Style>
+                    <ns3:LineStyle>
+                        <ns3:color>ff0000ff</ns3:color>
+                        <ns3:width>0.0</ns3:width>
+                    </ns3:LineStyle>
+                    <ns3:PolyStyle>
+                        <ns3:fill>0</ns3:fill>
+                    </ns3:PolyStyle>
+                </ns3:Style>
+                <ns3:ExtendedData>
+                    <ns3:SchemaData schemaUrl="#MGRS_100kmSQ_ID_11C">
+                        <ns3:SimpleData name="EASTING">400000mE</ns3:SimpleData>
+                        <ns3:SimpleData name="NORTHING">1100000mN</ns3:SimpleData>
+                        <ns3:SimpleData name="100kmSQ_ID">MM</ns3:SimpleData>
+                        <ns3:SimpleData name="GZD">11C</ns3:SimpleData>
+                        <ns3:SimpleData name="MGRS">11CMM</ns3:SimpleData>
+                    </ns3:SchemaData>
+                </ns3:ExtendedData>
+                <ns3:Polygon>
+                    <ns3:outerBoundaryIs>
+                        <ns3:LinearRing>
+                            <ns3:coordinates>-117.0,-80.00000000996334 -117.02343815999984,-80.00000000996336 -119.9999998799185,-80.00000000995867 -119.99999987951139,-79.25464055293561 -117.0,-79.26902786437586 -117.0,-80.00000000996334</ns3:coordinates>
+                        </ns3:LinearRing>
+                    </ns3:outerBoundaryIs>
+                </ns3:Polygon>
+            </ns3:Placemark>
+            <ns3:Placemark>
+                <ns3:Style>
+                    <ns3:LineStyle>
+                        <ns3:color>ff0000ff</ns3:color>
+                        <ns3:width>0.0</ns3:width>
+                    </ns3:LineStyle>
+                    <ns3:PolyStyle>
+                        <ns3:fill>0</ns3:fill>
+                    </ns3:PolyStyle>
+                </ns3:Style>
+                <ns3:ExtendedData>
+                    <ns3:SchemaData schemaUrl="#MGRS_100kmSQ_ID_11C">
+                        <ns3:SimpleData name="EASTING">500000mE</ns3:SimpleData>
+                        <ns3:SimpleData name="NORTHING">1100000mN</ns3:SimpleData>
+                        <ns3:SimpleData name="100kmSQ_ID">NM</ns3:SimpleData>
+                        <ns3:SimpleData name="GZD">11C</ns3:SimpleData>
+                        <ns3:SimpleData name="MGRS">11CNM</ns3:SimpleData>
+                    </ns3:SchemaData>
+                </ns3:ExtendedData>
+                <ns3:Polygon>
+                    <ns3:outerBoundaryIs>
+                        <ns3:LinearRing>
+                            <ns3:coordinates>-117.0,-80.00000000996334 -117.0,-79.26902786437586 -114.00000012048848,-79.25464055293561 -114.00000012008137,-80.00000000995867 -117.0,-80.00000000996334</ns3:coordinates>
+                        </ns3:LinearRing>
+                    </ns3:outerBoundaryIs>
+                </ns3:Polygon>
+            </ns3:Placemark>
+        </ns3:Folder>
+    </ns3:Document>
+</ns3:kml>
